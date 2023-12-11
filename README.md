@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Deepak Sharma from Agra, passionate about tech.<br>🌱 Learning DSA and Spring Boot for web development.<br>💡 Excited about Spring Boot's simplicity for building modern applications.<br>🚀 Thriving on rapid development and microservices.<br>📈 Building a future in tech, one Spring Boot application at a time.
+👋 I'm Deepak Sharma from Agra, passionate about tech.<br>🌱 Learning DSA and Spring Boot for development.<br>💡 Excited about Spring Boot's simplicity for building modern applications.<br>🚀 Thriving on rapid development and microservices.<br>📈 Building a future in tech, one Spring Boot application at a time.
 
 
 ## 🌐 Socials:
